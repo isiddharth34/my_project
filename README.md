@@ -9,7 +9,9 @@ This repository documents my journey of learning Git and GitHub over the next 10
 
 ## Daily Progress:
 - *Day 1*: Learned how to initialize a repository and push changes to GitHub.
-- *Day 2*: ... (Update daily)
+- *Day 2*: *Forked a repository** on GitHub to contribute to open-source projects.
+- **Cloned the forked repository** to my local machine to work on changes.
+- Learned how to work with remote repositories and update changes via Git.
 
 Stay tuned for updates and feel free to contribute or suggest improvements!
 
